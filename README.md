@@ -1,2 +1,4 @@
 # Statistika
-Statisticé zpracování dat z Klementina
+Statistické zpracování dat z Klementina
+
+Domácí úkol z statistiky
